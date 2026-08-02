@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  font-weight: 800;
+  background-color: #515151;
+}
+
+span {
+  font-weight: 600;
+}
+
+form {
+  width: 100%;
+  max-width: 250px;
+  border: 1px solid #000;
+  border-radius: 5px;
+  background-color: #fff;
+}
+fieldset {
+  border: none;
+}
+textarea {
+  max-height: 200px;
+  resize: vertical;
+}
+
+.facts {
+  display: block;
+  margin-bottom: 5px;
+  padding: 3px;
+  border: 1px solid #000;
+  border-radius: 3px;
+  width: 200px;
+}
+
+.buttom {
+  width: 100px;
+  margin-top: 5px;
+}
+
+.cursor {
+  cursor: pointer;
+}

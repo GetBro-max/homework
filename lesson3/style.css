@@ -20,11 +20,14 @@ form {
   border-radius: 5px;
   background-color: #fff;
 }
+
 fieldset {
   border: none;
 }
+
 textarea {
   max-height: 200px;
+  min-height: 50px;
   resize: vertical;
 }
 
